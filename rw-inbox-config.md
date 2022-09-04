@@ -43,6 +43,8 @@ ReadwisePathLogProcessed:: rw-inbox-log-processed
 
 **Note:** for this to work, tags must be included in the block, please see the Readme for more information.
 
+FilterTagsToExclude::[anki-added, concept-processed]
+
 ## FilterFromQuoteDisplay
 **Definition:** A regex string representing text to filter out of your highlights. This is useful for eliminating things like `{Tagged: #some-tags}` from your quotes before they are presented to you.
 
