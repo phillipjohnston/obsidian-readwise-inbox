@@ -7,7 +7,6 @@ This configuration file uses inline fields to set defaults. An inline field is m
 - Two colons 
 - the value
 
-
 Example:
 ```
 FieldName:: Field value
