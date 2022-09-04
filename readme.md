@@ -87,7 +87,7 @@ This workflow also expects that Readwise tags are exported AS tags (`#tag-name`)
 
 ## Installation
 
-Copy the rw-inbox folder (and all its contents) into your vault. 
+Copy or clone the folder (and all its contents) into your vault. 
 
 With this folder in your vault, open the **rw-inbox-viewer.md** file. This will display your highlights from the Readwise export folder. 
 
