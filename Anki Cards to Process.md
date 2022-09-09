@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 FilterTags: [anki, anki-todo]
 OnProcessRemoveTags: [anki, anki-todo]
 OnProcessAddTags: anki-added
