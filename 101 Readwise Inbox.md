@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 LimitHighlightCount: 20
 SortDateAscending: false
+FilterFromClipboardCopy: '{Tagged: .*}'
 ---
 
 ```dataviewjs

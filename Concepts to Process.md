@@ -3,6 +3,7 @@ obsidianUIMode: preview
 FilterTags: concept-todo
 OnProcessRemoveTags: concept-todo
 OnProcessAddTags: concept-processed
+FilterFromClipboardCopy: '{Tagged: .*}'
 ---
 
 ```dataviewjs
