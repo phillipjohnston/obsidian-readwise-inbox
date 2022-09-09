@@ -4,6 +4,7 @@ FilterTags: [ea-website]
 FilterTagsToExclude: [ea-website-used]
 OnProcessRemoveTags: [ea-website, concept-todo]
 OnProcessAddTags: [ea-website-used, concept-processed]
+FilterFromClipboardCopy: '{Tagged: .*}'
 ---
 
 ```dataviewjs
