@@ -269,8 +269,7 @@
                     if(copyAsAlias) {
                         if(ifAliasIncludeText)
                         {
-                            ref = `[[${filename}#^${blockId}]]\n`;
-                            ref += row.block;
+                            ref = row.block + '%%' + `[[${filename}#^${blockId}]]` + "%%\n"
 
                             if(FilterFromClipboardCopy)
                             {
